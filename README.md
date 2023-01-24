@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balaram Gayen</h1>
 <h3 align="center">A full-stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaramgayen&label=Profile%20views&color=0e75b6&style=flat" alt="balaramgayen" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaramgayen" alt="balaramgayen" /></a> </p>
-
 - 🌱 I’m currently learning **AWS Serverless Architectures and Web 3.0 (Blockchain & Solidity)**
 
 - 🤝 I’m looking for help with **any kind of web development related issues, fell free to connect me.**
@@ -14,6 +10,9 @@
 - 💬 Ask me about **React, Angular, MUI, Redux, Node.js, MySQL, MongoDB or any kind of web development related topics.**
 
 - 📫 How to reach me **balaramgayen53501@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaramgayen&label=Profile%20views&color=0e75b6&style=flat" alt="balaramgayen" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaramgayen" alt="balaramgayen" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
