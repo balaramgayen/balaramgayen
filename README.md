@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Balaram Gayen</h1>
+<h1 align="center">Hi there 👋</h1>
 <h1 align="center">I'm Balaram Gayen 👨‍💻</h1>
 <h3 align="center">A full-stack web developer from India 🤍</h3>
 
