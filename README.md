@@ -38,7 +38,7 @@
 </div>
 
 <div>
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=balaramgayen&show_icons=true&locale=en" alt="balaramgayen" />
-<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramgayen&" alt="balaramgayen" />
+<img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=balaramgayen&show_icons=true&locale=en" alt="balaramgayen" />
+<img align="right" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramgayen&" alt="balaramgayen" />
 </div>                                                                                                               
 
