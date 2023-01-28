@@ -33,9 +33,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaramgayen&theme=onedark&row=1&margin-w=25&no-bg=true" alt="balaramgayen" /></a> </p>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=balaramgayen&show_icons=true&locale=en" alt="balaramgayen" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramgayen&" alt="balaramgayen" />
- </div>                                                                                                               
-
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/balaramTheDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="balaramTheDev" /></a></p>
+<p align="left"><a href="https://www.buymeacoffee.com/balaramTheDev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="balaramTheDev" /></a></p>
+</div>
+
+<div>
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=balaramgayen&show_icons=true&locale=en" alt="balaramgayen" />
+<img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramgayen&" alt="balaramgayen" />
+</div>                                                                                                               
+
