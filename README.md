@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h1 align="center">I'm Balaram Gayen 👨‍💻</h1>
 <h3 align="center">A full-stack web developer from India 🤍</h3>
-<img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" alt="coding" align="right" "height="250" width="300">
+<img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" alt="coding" align="right" "height="300" width="300">
 
 - 🌱 I’m currently learning **AWS Serverless Architectures and Web 3.0 (Blockchain & Solidity)**
 
@@ -33,9 +33,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaramgayen&theme=onedark&row=1&margin-w=25&no-bg=true" alt="balaramgayen" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=balaramgayen&show_icons=true&locale=en" alt="balaramgayen" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=balaramgayen&show_icons=true&locale=en" alt="balaramgayen" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramgayen&" alt="balaramgayen" /></p>
-
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=balaramgayen&" alt="balaramgayen" />
+                                                                                                                
+<br><br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/balaramTheDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="balaramTheDev" /></a></p>
