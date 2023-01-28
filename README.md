@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h1 align="center">I'm Balaram Gayen 👨‍💻</h1>
 <h3 align="center">A full-stack web developer from India 🤍</h3>
+<img src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" alt="coding" align="right" "height="250" width="300">
 
 - 🌱 I’m currently learning **AWS Serverless Architectures and Web 3.0 (Blockchain & Solidity)**
 
